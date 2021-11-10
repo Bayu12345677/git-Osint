@@ -35,15 +35,28 @@ dan seluruh team HELIXS-Crew & COINTER
 
 ```php
 $ apt update
+```
+```php
 $ apt full-upgrade
+```
+```php
 $ apt install git
+```
+```php
 $ apt install figlet toilet
+```
+```php
 $ git clone https://github.com/Bayu12345677/git-Osint
+```
+```php
 $ cd git-Osint
+```
+```php
 $ bash setup.txt
+```
+```php
 $ bash grab-git.sh
 ```
-
 <p align="center">
  FEATURE
 </p>
