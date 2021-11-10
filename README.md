@@ -8,7 +8,7 @@
 </p>
 
 dimana kita bisa
-mengetahui `informasi`               
+mengetahui `informasi`
 tentang profile github dengan menggunakan `username`
 
 # tampilan
@@ -18,7 +18,7 @@ tentang profile github dengan menggunakan `username`
 
 
 
-<p align="center"
+<p align="center">
   Me Team
 </p>
 
