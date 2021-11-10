@@ -17,9 +17,17 @@ tentang profile github dengan menggunakan `username`
 </p>
 
 
-> me team
+
+<p align="center"
+  Me Team
+</p>
+
 ```python
-HELIXS-TEAM & COINTER
+HELIXS-Crew & COINTER
+
+         dan kusus nya
+Aldi, Abdul, Panglima jateng
+dan seluruh team HELIXS-Crew & COINTER
 ```
 
 <p align="center">
