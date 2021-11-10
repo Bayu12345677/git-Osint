@@ -61,12 +61,12 @@ $ bash grab-git.sh
  FEATURE
 </p>
 
-> [>] Ai Pesan eror                 
-> [>] Free no key            
-> [>] ascii thema            
-> [>] animation loading          
+> ➢ Ai Pesan eror                 
+> ➢ Free no key            
+> ➢ ascii thema            
+> ➢ animation loading          
 
-
+######################################
 `bagi kalian yg ingin bisa`
 `belajar bahasa program silakan cek`
 
