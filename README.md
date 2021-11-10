@@ -1,2 +1,4 @@
-# git-Osint
-Dimana kita bisa mengetahui informasi profile github dengan username
+<h1 align="center">
+   Code by © Polygon
+</h1>
+</div>
