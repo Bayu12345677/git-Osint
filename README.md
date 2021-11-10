@@ -7,7 +7,8 @@
   Code by ⌨ polygon
 </p>
 
-dimana kita bisa mengetahui `informasi`             
+dimana kita bisa
+mengetahui `informasi`               
 tentang profile github dengan menggunakan `username`
 
 # tampilan
@@ -24,8 +25,9 @@ HELIXS-TEAM & COINTER
 <p align="center">
  FEATURE
 </p>
-> [>] Ai Pesan eror
-> [>] Free no key
-> [>] ascii thema
-> [>] animation loading
+
+> [>] Ai Pesan eror                 
+> [>] Free no key            
+> [>] ascii thema            
+> [>] animation loading          
 
