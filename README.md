@@ -39,3 +39,21 @@ dan seluruh team HELIXS-Crew & COINTER
 > [>] ascii thema            
 > [>] animation loading          
 
+
+`bagi kalian yg ingin bisa`
+`belajar bahasa program silakan cek`
+
+•[helixs.id](https://helixs.id)              
+•[alpha code](https://alphacode.pythonanywhere.com)
+
+
+`dan jangan lupa bantu subscribe`        
+`Channel saya :)`
+
+•[youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+
+
+<p align="center">
+  Terimkasi telah berkunjung ☕
+</p>
+
