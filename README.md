@@ -25,7 +25,6 @@ tentang profile github dengan menggunakan `username`
 ```python
 HELIXS-Crew & COINTER
 
-         dan kusus nya
 Aldi, Abdul, Panglima jateng
 dan seluruh team HELIXS-Crew & COINTER
 ```
@@ -43,14 +42,14 @@ dan seluruh team HELIXS-Crew & COINTER
 `bagi kalian yg ingin bisa`
 `belajar bahasa program silakan cek`
 
-•[helixs.id](https://helixs.id)              
-•[alpha code](https://alphacode.pythonanywhere.com)
+• [helixs.id](https://helixs.id)              
+• [alpha code](https://alphacode.pythonanywhere.com)
 
 
 `dan jangan lupa bantu subscribe`        
 `Channel saya :)`
 
-•[youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+• [youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
 
 <p align="center">
