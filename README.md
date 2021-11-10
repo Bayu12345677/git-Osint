@@ -63,7 +63,7 @@ $ bash grab-git.sh
 
 > ➢ Ai Pesan eror                 
 > ➢ Free no key            
-> ➢ ascii thema             
+> ➢ ascii thema              
 > ➢           animation loading
 
 ######################################
