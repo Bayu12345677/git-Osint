@@ -1,4 +1,8 @@
 <h1 align="center">
-   Code by © Polygon
+   Osint git
 </h1>
 </div>
+
+<p align="center">
+  Code by ⌨ polygon
+</p>
