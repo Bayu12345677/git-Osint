@@ -66,7 +66,7 @@ $ bash grab-git.sh
 > ➢ ascii thema              
 > ➢           animation loading
 
-######################################
+########################               
 `bagi kalian yg ingin bisa`
 `belajar bahasa program silakan cek`
 
